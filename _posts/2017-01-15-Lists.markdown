@@ -15,7 +15,7 @@ categories: jekyll update
 |  ------ | ------- |
 |   2017-01-16 | Αντικατάσταση ιμάντων |
 |   ------- | ------------ |
-{:.mdtablestyle}
+{:.mbtablestyle}
 
 {% highlight python %}
 def print_hi(self):
